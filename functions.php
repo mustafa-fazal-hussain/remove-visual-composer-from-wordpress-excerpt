@@ -27,4 +27,13 @@ if(!function_exists('vc_excerpt')) {
  
 }
 
+
+/** 
+	if you want to call that function use this
+	
+	<?php echo vc_excerpt(); ?>
+	
+ **/
+ 
 ?>
+
